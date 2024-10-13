@@ -14,7 +14,6 @@ class Sample{
 class Mobile{
     static String company;
     int price;
-
     public void details(){
         System.out.println("Company : " + company + " price : " + price);
     }
